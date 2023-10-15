@@ -1,10 +1,10 @@
 # Spark-Mini-CTF
 
-My writeups for the challenges I wrote during Spark Mini CTF 2023.
+My writeups for the challenges I created during Spark Mini CTF 2023.
 
 ### Forensics:
   - PowerShell Puzzler
-  - MaskedMystery
+  - MaskedMystery (in progress ...)
 
 ### Reversing:
   - Execute Me
